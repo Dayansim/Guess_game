@@ -1,1 +1,1 @@
-"# Guess_game" 
+It is for user to guess a random number between 1 to 20.
